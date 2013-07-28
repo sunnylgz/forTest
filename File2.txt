@@ -1,2 +1,3 @@
 NEW file
 Add a comment here. ammend this.
+Add new comment.
