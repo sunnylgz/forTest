@@ -2,3 +2,4 @@ NEW file
 Add a comment here. ammend this.
 Add new comment.
 Add comment on local branch.
+Add comment on master branch.
